@@ -50,6 +50,13 @@ Use the following format:
 
 replace `max-width` with the maximum width needed. Using the shortcode format described above, the URL won't need to be on its own line.
 
+== Screenshots ==
+
+1. Search for `SlideShare` on plugins page. Click on `Install Now`.
+2. Click on `Activate Plugin`.
+3. Plugin is activated.
+4. Create a new post and paste the link to the SlideShare presentation.
+
 == Usage ==
 
 1. Install and activate the plugin
