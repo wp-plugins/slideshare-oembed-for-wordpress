@@ -46,9 +46,9 @@ The plugin requires such links to be on its own line and not hyperlinked. Check 
 
 Use the following format:
 
-[embed width="<max-width>"] link to the presentation [/embed]
+[embed width="max-width"] link to the presentation [/embed]
 
-replace <max-width> with the maximum width needed. Using the shortcode format described above, the URL won't need to be on its own line.
+replace `max-width` with the maximum width needed. Using the shortcode format described above, the URL won't need to be on its own line.
 
 == Usage ==
 
@@ -61,7 +61,8 @@ Providing maximum width:
 
 Use the following format:
 
-[embed width="<max-width>"] link to the presentation [/embed]
+[embed width="max-width"] link to the presentation [/embed]
+replace `max-width` with the maximum width needed.
 
 == Changelog ==
 
