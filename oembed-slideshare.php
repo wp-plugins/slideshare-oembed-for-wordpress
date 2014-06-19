@@ -13,6 +13,6 @@ if ( function_exists('wp_oembed_add_provider') ) {
 }
 
 function enable_oembed_slideshare() {
-  wp_oembed_add_provider( '#http://(www\.)?slideshare.net/*#i', 'http://www.slideshare.net/api/oembed/1', true );
+  wp_oembed_add_provider( '#http://(www\.)?slideshare.net/*#i', 'http://www.slideshare.net/api/oembed/2', true );
 }
 ?>
