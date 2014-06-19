@@ -1,9 +1,12 @@
 === SlideShare Embeds for WordPress===
 Contributors: jaiz
 Tags: embed, oembed, slideshow, slideshare, keynote, powerpoint, ppt, presentation, player, viewer
+Donate Link: http://jaipandya.com/themes/
 Requires at least: 2.9.1
-Tested up to: 3.0.2
-Stable tag: 1.0.0
+Tested up to: 3.9.1
+Stable tag: 1.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Enables you to embed a SlideShare presentation just by putting its link in your WordPress post.
 
@@ -75,3 +78,8 @@ replace `max-width` with the maximum width needed.
 
 = 1.0.0 =
 * First Release
+
+== Upgrade Notice ==
+
+= 1.1 =
+Use the latest (version 2) oEmbed endpoint from SlideShare.
